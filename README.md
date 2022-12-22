@@ -29,5 +29,5 @@ Skills: Visualizations, Dashboards, Stories, KPIs,
 # Excel
 
 Functions: Lookups, Index, Match, Sumifs, Pivot Table, Pivot Charts, Slicer, Dashboards
-| Project Name | Description | Tableau Dashboard |
+| Project Name | Description | Excel Functions|
 |---|---|---|
