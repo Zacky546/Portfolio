@@ -17,6 +17,7 @@ text & string manipulation, date type conversion
 
 | Project Name | Description | SQL Functions |
 |---|---|---|
+|[Stratascratch](https://github.com/Zacky546/Portfolio/blob/main/Stratascratch)| Interview questions |...|
 
 ***
 
