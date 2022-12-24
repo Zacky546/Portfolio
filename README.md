@@ -17,7 +17,7 @@ text & string manipulation, date type conversion
 
 | Project Name | Description | SQL Functions |
 |---|---|---|
-|[Stratascratch]| Interview questions |...|
+|[Stratascratch](https://github.com/Zacky546/Stratascratch/tree/main)| Interview questions |...|
 
 ***
 
